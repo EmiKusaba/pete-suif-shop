@@ -22,3 +22,8 @@
     margin-left: 26%;
    
 }
+#feature{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
