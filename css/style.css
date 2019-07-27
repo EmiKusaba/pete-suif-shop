@@ -1,0 +1,21 @@
+.jumbotron{
+    background-image: url("../images/surferdude.jpg");
+    background-size:cover;
+    height: 80vh;
+
+    
+}
+.nav-link{
+    color:#0B4451;
+}
+
+/*.card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+*/
+.card-img-top{
+    
+   
+}
